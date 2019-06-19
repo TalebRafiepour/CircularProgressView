@@ -1,4 +1,4 @@
-# CircularProgressIndicator
+# CircularProgressView
 
 Simple but customizable view for displaying progress
 
